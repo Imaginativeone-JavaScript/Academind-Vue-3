@@ -1,5 +1,23 @@
-- [ ] Course Curriculum Welcome to the Course! (1:39)
-	- [ ] Getting Started
+3	Rendering Conditional Content & Lists 00:52:52
+4	Course Project: The Monster Slayer Game 00:49:57
+5	Vue: Behind the Scenes 00:58:05
+6	Introducing Components 00:24:06
+7	Moving to a Better Development Setup & Workflow with the Vue CLI 01:01:26
+8	Component Communication 01:33:29
+9	Diving Deeper Into Components 01:25:13
+10	Course Project: The Learning Resources App 01:25:10
+11	Forms 00:44:04
+12	Sending Http Requests 00:53:31
+13	Routing: Building [Multi-Page] Single Page Applications 01:58:24
+14	Animations & Transitions 01:34:01
+15	Vuex 01:49:47
+16	Main Project: [Find a Coach] Web App 03:33:24
+17	Vue & Authentication 01:20:36
+18	Optimizing & Deploying Vue Apps 00:29:06
+19	The Composition API - Replacing the Options API 03:38:41
+20	Roundup & Next Steps 00:03:08
+21	Vue 2 to Vue 3 Migration 00:29:33- [ ] Course Curriculum Welcome to the Course! (1:39)
+	- [ ] 1 Getting Started 00:43:08
 		- [ ] Welcome to the Course! (1:39)
 		- [ ] What is "Vue.js"? (7:51)
 		- [ ] Different Ways of Using Vue (2:35)
@@ -12,6 +30,7 @@
 		- [ ] How To Get The Most Out Of This Course (3:23)
 		- [ ] Module Resources
 	- [ ] Basics & Core Concepts - DOM Interaction with Vue
+	- 2 Basics & Core Concepts - DOM Interaction with Vue 02:55:52
 		- [ ] Module Introduction (0:48)
 		- [ ] Creating and Connecting Vue App Instances (8:40)
 		- [ ] Interpolation and Data Binding (3:35)
