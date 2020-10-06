@@ -1,10 +1,6 @@
-- 3	Rendering Conditional Content & Lists 00:52:52
-- 4	Course Project: The Monster Slayer Game 00:49:57
-- 5	Vue: Behind the Scenes 00:58:05
-- 6	Introducing Components 00:24:06
-- 7	Moving to a Better Development Setup & Workflow with the Vue CLI 01:01:26
-- 8	Component Communication 01:33:29
-- 9	Diving Deeper Into Components 01:25:13
+- 07	Moving to a Better Development Setup & Workflow with the Vue CLI 01:01:26
+- 08	Component Communication 01:33:29
+- 09	Diving Deeper Into Components 01:25:13
 - 10	Course Project: The Learning Resources App 01:25:10
 - 11	Forms 00:44:04
 - 12	Sending Http Requests 00:53:31
@@ -29,7 +25,7 @@
 		- [ ] Course Outline & What's In The Course (2:58)
 		- [ ] How To Get The Most Out Of This Course (3:23)
 		- [ ] Module Resources
-	- [ ] Basics & Core Concepts - DOM Interaction with Vue 02:55:52
+	- [ ] 2 Basics & Core Concepts - DOM Interaction with Vue 02:55:52
 		- [ ] Module Introduction (0:48)
 		- [ ] Creating and Connecting Vue App Instances (8:40)
 		- [ ] Interpolation and Data Binding (3:35)
@@ -64,7 +60,7 @@
 		- [ ] Time to Practice: Dynamic Styling - Solution (8:24)
 		- [ ] Module Summary (4:14)
 		- [ ] Module Resources
-	- [ ] Rendering Conditional Content & Lists
+	- [ ] 3 Rendering Conditional Content & Lists 00:52:52
 		- [ ] Module Introduction (1:35)
 		- [ ] Understanding the Problem (3:16)
 		- [ ] Rendering Content Conditionally (5:09)
@@ -79,6 +75,8 @@
 		- [ ] Module Summary (2:15)
 		- [ ] Module Resources
 	- [ ] Course Project: The Monster Slayer Game
+	- 04  Course Project: The Monster Slayer Game 00:49:57
+
 		- [ ] Module Introduction (1:18)
 		- [ ] Project Setup & First Methods (12:27)
 		- [ ] Updating the Health Bars (7:07)
@@ -89,6 +87,7 @@
 		- [ ] Adding a Battle Log (14:11)
 		- [ ] Module Resources
 	- [ ] Vue: Behind the Scenes
+	- 05	Vue: Behind the Scenes 00:58:05
 		- [ ] Module Introduction (1:31)
 		- [ ] An Introduction to Vue's Reactivity (4:26)
 		- [ ] Vue Reactivity: A Deep Dive (8:10)
@@ -100,6 +99,7 @@
 		- [ ] Vue App Lifecycle - Practice (9:48)
 		- [ ] Module Resources
 	- [ ] Introducing Components
+	- 06	Introducing Components 00:24:06
 		- [ ] Module Introduction (1:30)
 		- [ ] Understanding the Problem (8:39)
 		- [ ] Introducing Components (10:54)
